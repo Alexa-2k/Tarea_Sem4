@@ -16,6 +16,7 @@ Algoritmo BuenaPipa
 		Escribir "Yo no dije ", ans;
 		Escribir "Yo dije si ", quest;
 		Leer ans;
+		Escribir "";
 	FinMientras
 	
 	Escribir "Ahora sí. Chau!";
